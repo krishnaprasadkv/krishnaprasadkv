@@ -7,7 +7,7 @@ DevOps Engineer
 
 [![Linkedin](https://img.shields.io/badge/-KrishnaPrasad-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/krishnaprasadkalakodimi/)](https://www.linkedin.com/in/krishnaprasadkalakodimi/)
 
-[![Twitter Follows](https://img.shields.io/twitter/follow/lmkrishnaprasad?label=Follow)](https://twitter.com/l_AM_KVKP)
+[![Twitter Follows](https://img.shields.io/twitter/follow/I_AM_KVKP?label=Follow)](https://twitter.com/I_AM_KVKP)
 
 [![GitHub Followers](https://img.shields.io/github/followers/krishnaprasadkv?label=Follow&style=social)](https://github.com/krishnaprasadkv?tab=followers)
 
