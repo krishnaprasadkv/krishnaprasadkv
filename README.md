@@ -34,7 +34,8 @@ DevOps Engineer
 <code><img height="30" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg"></code>
 
 ### Publications 🔣
-
+- [Build Node.js App Docker Image and Push to Docker Private Repo With GitHub Actions](https://dzone.com/articles/deploy-first-nodejs-app)
+- [Git Cheat Sheet](https://github.com/krishnaprasadkv/git_cheatsheet)
 - [Linux Commands](https://krishnaprasadkv.github.io/Linux-Commands/)
 - [Docker Basics, Commands, and Usage](https://dzone.com/articles/basic-docker-commands-and-usage)
 - [How to Install Docker on Ubuntu 18.04](https://dzone.com/articles/how-to-install-docker-on-ubuntu1804)
@@ -43,9 +44,10 @@ DevOps Engineer
 - [Jenkins: Configure Master and Slave Nodes](https://dzone.com/articles/jenkins-03-configure-master-and-slave)
 - [Jenkins: Changing the Jenkins Home Directory](https://dzone.com/articles/jenkins-02-changing-home-directory)
 - [Jenkins: Integrating Jenkins With Microsoft Teams](https://dzone.com/articles/configure-jenkins-notifications-with-microsoft-tea)
-- [GitHub: Configure GitHub Actions With CI/CD in Any Cloud, Language, and OS](https://dzone.com/articles/configure-github-actions-with-cicd-in-any-cloud-la)
 - [Create a New GitHub Repo Using CLI](https://medium.com/@krishnaprasad_kv/create-a-new-git-repo-using-cli-bc85b051406d)
 - [Ansible Vault](https://dzone.com/articles/ansible-vault)
+- [GitHub: Configure GitHub Actions With CI/CD in Any Cloud, Language, and OS](https://dzone.com/articles/configure-github-actions-with-cicd-in-any-cloud-la)
+
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
